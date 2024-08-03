@@ -12,7 +12,7 @@
 
 ## Part 2: Move this CSV into a database of your choice and use SQL to answer 4 of the questions above. 
 
-In this section, the CSV data was imported into a MariaDB database, and SQL queries were used to answer specific questions. Below are the SQL queries and their results:
+In this section, the CSV data was imported into a MySQL database, and SQL queries were used to answer specific questions. Below are the SQL queries and their results:
 
 1. Find all records where the weather was exactly clear
 ```sql
